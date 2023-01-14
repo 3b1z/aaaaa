@@ -1,5 +1,3 @@
-local id = {
-  2735951196, -- Zaxx
+ModIDS = {
+2735951196,
 }
-
-return id;
